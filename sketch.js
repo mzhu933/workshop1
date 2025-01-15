@@ -9,5 +9,5 @@ function setup() {
 
 function drawEllipse(x, y, size) {
   fill(150, 230, 250, 150); 
-  ellipse(x, y, size, size+30);
+  ellipse(x, y, size+20, size);
 }
