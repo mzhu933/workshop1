@@ -11,8 +11,8 @@ loop &amp; function
 ## function
 
 - functionmakehouse(xPos, yPos, stories, color)
-- xPos, yPos - variable
-- stories - hieght of house
+- xPos, yPos are variables
+- stories means hieght of house
 
 - for (x=0;
 - x<30 means loop this 30 times
@@ -29,4 +29,7 @@ loop &amp; function
 - test about how to change it to vertical
 <img width="823" alt="截屏2025-01-15 上午10 11 14" src="https://github.com/user-attachments/assets/0b50ce4d-fa59-4bd2-bcc3-5d2fa8d9221d" />
 
+## new thing learnt in p5 documentation 
+- point
+<img width="839" alt="截屏2025-01-19 下午9 41 50" src="https://github.com/user-attachments/assets/6813fce4-ec6d-4864-8862-115682fd91c1" />
 
