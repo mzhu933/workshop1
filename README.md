@@ -28,3 +28,5 @@ loop &amp; function
 
 - test about how to change it to vertical
 <img width="823" alt="截屏2025-01-15 上午10 11 14" src="https://github.com/user-attachments/assets/0b50ce4d-fa59-4bd2-bcc3-5d2fa8d9221d" />
+
+
